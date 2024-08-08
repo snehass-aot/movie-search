@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+#search{
+    width: 520px;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Montserrat';
+}
